@@ -5,19 +5,6 @@ import {
   Route,
   RouterProvider,
   createRoutesFromElements
-} from "react-router-dom";
-import Dashboard from './pages/Dashboard';
-import Patient from './pages/Patient';
-import Doctor from './pages/Doctor';
-import Patientregistation from './pages/Patientregistation';
-import AppointmentForm from './pages/AppointmentForm';
-import AddDoctor from './pages/AddDoctor';
-import Payment from './pages/Payment';
-import AppoinmentDetails from './pages/AppoinmentDetails';
-import Technician from './pages/Technician';
-import AddTechnician from './pages/AddTechnician';
-import TestForm from './pages/TestForm';
-import Test from './pages/Test';
 
 
 
