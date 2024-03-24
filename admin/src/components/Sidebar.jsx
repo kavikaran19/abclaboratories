@@ -1,4 +1,10 @@
-
+import React from 'react'
+import { FaHospitalUser } from "react-icons/fa6";
+import { FaUserDoctor } from "react-icons/fa6";
+import { GrUserWorker } from "react-icons/gr";
+import { IoPersonAdd } from "react-icons/io5";
+import { MdAddCard } from "react-icons/md";
+import { GiTestTubes } from "react-icons/gi";
 
 const Sidebar = () => {
   return (
